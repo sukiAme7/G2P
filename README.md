@@ -9,7 +9,9 @@
 训练可以直接运行trainer.py,但建议提前在config.py文件中配置一下GPU还是cuda,以及训练batch size大小以防训练OOM
 ```bash
 python trainer.py
+```
 ## Inference
 推理同样直接运行inference.py
 ```bash
 python inference.py
+```
