@@ -11,8 +11,8 @@
 python trainer.py
 ```
 ## Inference
-推理需要先把训练得到的checkpoint放在model_save路径下，如果训练比较耗时可以使用我训练的模型文件。
-下载路径：https://pan.baidu.com/s/1U7NMWEWC9T4vv7nLtOWNBw
+推理需要先把训练得到的checkpoint放在model_save路径下，如果训练比较耗时可以使用我训练的模型文件<br>
+下载路径：https://pan.baidu.com/s/1U7NMWEWC9T4vv7nLtOWNBw <br>
 推理同样直接运行inference.py
 ```bash
 python inference.py
