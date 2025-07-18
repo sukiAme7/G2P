@@ -1,6 +1,11 @@
-# G2p
+# G2P
+**Grapheme-to-Phoneme（G2P）转换**是**自然语言处理**和语音处理中的基础任务，其目标是：
+
+> **将一个词的拼写（字母/字素）序列转换为其发音（音素）序列。**
 ## Dataset
 数据集我已经完全划分好，放在data路径下，如果你想要重新划分，使用/utils/preprocess.py脚本即可
 
-
-
+## Training
+训练可以直接运行trainer.py
+```bash
+python trainer.py
